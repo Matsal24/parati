@@ -102,7 +102,10 @@
     </p>
 
     <h2>Espero que te guste 💖</h2>
-
+    <audio id="musica" loop>
+        <source src="audio/Cometas.mp3" type="audio/mpeg">
+        Tu navegador no soporta audio HTML5.
+    </audio>
     <p>
         Hola, mi amor.
         Ayer cumplimos un mes de novios un mes precioso, lleno de baches que supimos superar juntos.
@@ -111,8 +114,7 @@
         Me hiciste el hombre más feliz del mundo cuando me dijiste “sí”.
         <br>Gracias por elegirme entre todas las personas del mundo.
     </p>
-    <p>Gracias por perdonarme cada toneria que digo o hago pues yo se que no soy el mejor en muchas cosas pero cada dia intento mejorar y si es a tu lado mejor,
-     simplemente no tengo palabras para agradecerte por todo lo que haces por mi pues tu me haz abierto tu corazon, y me has amado como nadie lo a hecho</p>
+    <p>Y amarme como nadie lo ha hecho. </p>
     <p style="color:#ff4d4d; font-family:cursive; text-align:center;">Te amo ❤️</p>
 
     <p>
@@ -130,9 +132,7 @@
     <img src="imagenes/IMG_0071.jpg" alt="Trulli" width="400" height="250" style="border-radius: 10px; box-shadow: 0 0 20px #0ff; margin-top: 20px;">
     <button onclick="document.getElementById('musica').play()">🎵 Reproducir música</button>
 
-    <audio id="musica" loop>
-        <source src="audio/Cometas.mp3" type="audio/mpeg">
-        Tu navegador no soporta audio HTML5.
-    </audio>
+
 </body>
 </html>
+
