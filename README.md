@@ -112,9 +112,7 @@
         Quiero darte las gracias por todo, porque aunque digas que no me das nada “material”, me lo das todo.
         pues yo soy feliz cada día, cada segundo a tu lado — y eso no tiene precio.
         Me hiciste el hombre más feliz del mundo cuando me dijiste “sí”.
-        <br>Gracias por elegirme entre todas las personas del mundo.
-    </p>
-    <p>Y amarme como nadie lo ha hecho. </p>
+        <br>Gracias por elegirme entre todas las personas del mundo.Y amarme como nadie lo ha hecho. </p>
     <p style="color:#ff4d4d; font-family:cursive; text-align:center;">Te amo ❤️</p>
 
     <p>
@@ -135,4 +133,3 @@
 
 </body>
 </html>
-
