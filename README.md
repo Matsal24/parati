@@ -128,7 +128,7 @@
 
     <p class="firma">— De Matu, para mi amada Jowi 💜</p>
 
-    <img src="imagenes/IMG_0071.jpg" alt="Trulli" width="400" height="250" style="border-radius: 10px; box-shadow: 0 0 20px #0ff; margin-top: 20px;">
+    <img src="imagenes\IMG_0071.jpg" alt="Trulli" width="400" height="250" style="border-radius: 10px; box-shadow: 0 0 20px #0ff; margin-top: 20px;">
     
 
 
